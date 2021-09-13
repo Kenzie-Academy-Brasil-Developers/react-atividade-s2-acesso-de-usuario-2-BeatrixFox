@@ -1,0 +1,8 @@
+.areaMembers {
+  display: flex;
+  flex-direction: column;
+  margin: 10px auto;
+}
+.areaMembers p {
+  width: 400px;
+}

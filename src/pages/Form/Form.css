@@ -1,0 +1,10 @@
+.newMembers {
+  margin: 10px auto;
+  display: flex;
+  flex-wrap: wrap;
+  width: 220px;
+  height: 160px;
+}
+.newMembers button {
+  margin: 5px auto;
+}
